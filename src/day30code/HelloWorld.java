@@ -1,7 +1,8 @@
-package day30code; /**
+package day30code;
+/**
  * Created by hs kim on 2020/01/08
  *
- * 30day challenge day1
+ * 30day challenge day0
  */
 import java.util.Scanner;
 
